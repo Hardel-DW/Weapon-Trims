@@ -1,0 +1,15 @@
+{
+    "item.minecraft.smithing_template.armor_trim.applies_to": "Armor",
+    "item.minecraft.smithing_template.armor_trim.base_slot_description": "Put a piece of armor here, weapon or tool here",
+    "trim_pattern.minecraft.sentry": "Sentry Trim",
+    "trim_pattern.minecraft.dune": "Dune Trim",
+    "trim_pattern.minecraft.coast": "Coast Trim",
+    "trim_pattern.minecraft.wild": "Wild Trim",
+    "trim_pattern.minecraft.ward": "Ward Trim",
+    "trim_pattern.minecraft.eye": "Eye Trim",
+    "trim_pattern.minecraft.vex": "Vex Trim",
+    "trim_pattern.minecraft.tide": "Tide Trim",
+    "trim_pattern.minecraft.snout": "Snout Trim",
+    "trim_pattern.minecraft.rib": "Rib Trim",
+    "trim_pattern.minecraft.spire": "Spire Trim"
+}
